@@ -4,7 +4,7 @@
 
 1. Create a `.env` file in the backend directory and add the following:
    ```env
-   DB_URL="url/task"
+   DB_URL="url"
    ```
 2. Install dependencies:
    ```sh
